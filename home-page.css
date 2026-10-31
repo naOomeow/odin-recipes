@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:beige;
+}
+
+a{
+    color:#7d2929;
+    font-size: 1em;
+}
+
+.recipies{
+    margin: 30px;
+    padding-top: 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.recipies a{  
+    display: inline-block;
+    margin: 6px;
+}
+
+.recipies a:hover{
+    font-size: 30px;
+    
+}
