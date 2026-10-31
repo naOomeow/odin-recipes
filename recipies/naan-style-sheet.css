@@ -1,0 +1,59 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    font-size: 4em;
+}
+
+a{
+    font-size: 20px;
+    margin: 45%;
+}
+
+img{
+    margin: 20px 10px;
+}
+
+img:hover{
+    width: 700px;
+    height: auto;;
+}
+
+h2{
+    margin-left: 5px;
+    display: inline-block;
+    background-color: rgba(169, 169, 169, 0.379);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p,
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3px;
+    margin: 5px auto;
+    background-color: #89be545d;
+    
+}
+
+p{
+    display: inline-block;
+}
+
+.all-content{
+    display: block;
+    margin: 0px 200px;
+}
+
+ul,
+ol{
+    display: inline-block;
+    
+}
+
+.enjoy{
+    margin-left: 45%;
+    font-size: 2em;
+    padding: 10px 10px;
+}
